@@ -1,0 +1,5 @@
+numpy==1.26.4
+panel==1.4.3
+tastymap==0.4.1
+openai==1.30.5
+python-dotenv==1.0.1

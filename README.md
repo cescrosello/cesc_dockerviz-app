@@ -1,1 +1,0 @@
-# cesc_dockerviz-app
